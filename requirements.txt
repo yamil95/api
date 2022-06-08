@@ -1,0 +1,10 @@
+pandas
+numpy
+azure-storage-blob
+azure-identity
+azure-keyvault-secrets
+azure-cosmosdb-table
+openpyxl
+flask
+flask-restful
+python-dotenv
