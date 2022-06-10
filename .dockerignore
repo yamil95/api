@@ -1,9 +1,0 @@
-docs/
-Pipfile.lock
-venv/
-env/
-examples/
-.pytest_cache/
-README.md
-setup.py
-Pipfile
